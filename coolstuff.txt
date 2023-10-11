@@ -1,1 +1,2 @@
-some cool stuff in this filee
+some cool stuff in this file
+fixed cool stuff file
